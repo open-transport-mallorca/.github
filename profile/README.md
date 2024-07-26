@@ -20,6 +20,7 @@ Open Transport Mallorca aims to empower developers, city planners, and transport
 We host projects related to Mallorquin transport services, including but not limited to:
 
 - **TIB API**: A comprehensive API providing real-time and static data for buses, trains, and other public transport from the TIB company.
+- **TIB Docs**: An explanation of how TIB's backend infrastructure works, complete with the API endpoints and their structure.
 
 You can explore all our projects in the [repositories](https://github.com/orgs/open-transport-mallorca/repositories) section.
 
