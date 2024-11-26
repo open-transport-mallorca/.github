@@ -17,6 +17,7 @@ Open Transport Mallorca aims to empower developers, city planners, and transport
 We host projects related to Mallorquin transport services, including but not limited to:
 
 - [**Mallorca Public Transit API**](https://github.com/open-transport-mallorca/mallorca_transit_services): A comprehensive API providing real-time and static data for buses, trains, and other public transport in Mallorca.
+- [**Via Mallorca**](https://github.com/open-transport-mallorca/ViaMallorca): An app to track buses all over Mallorca, check schedules, routes, and much more!
 
 You can explore all our projects in the [repositories](https://github.com/orgs/open-transport-mallorca/repositories) section.
 
